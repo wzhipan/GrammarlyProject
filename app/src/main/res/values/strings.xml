@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Grammarly</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="permission_denied_read_contact">This page doesn\'t work because you have denied the access to your contacts.</string>
+    <string name="grant_button">Grant</string>
+    <string name="contact_avatar">contact avatar</string>
+    <string name="permission_needed_read_contacts">We need your permission to access your Contacts to make this app work.</string>
+    <string name="phone_number">Phone:</string>
+    <string name="email_address">Email:</string>
+</resources>
